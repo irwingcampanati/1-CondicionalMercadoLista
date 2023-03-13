@@ -1,0 +1,15 @@
+C:\Irwing\CondicionalIdade\bin\Debug\net6.0\CondicionalIdade.exe
+C:\Irwing\CondicionalIdade\bin\Debug\net6.0\CondicionalIdade.deps.json
+C:\Irwing\CondicionalIdade\bin\Debug\net6.0\CondicionalIdade.runtimeconfig.json
+C:\Irwing\CondicionalIdade\bin\Debug\net6.0\CondicionalIdade.dll
+C:\Irwing\CondicionalIdade\bin\Debug\net6.0\CondicionalIdade.pdb
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.csproj.AssemblyReference.cache
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.AssemblyInfoInputs.cache
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.AssemblyInfo.cs
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.csproj.CoreCompileInputs.cache
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.dll
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\refint\CondicionalIdade.dll
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.pdb
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\CondicionalIdade.genruntimeconfig.cache
+C:\Irwing\CondicionalIdade\obj\Debug\net6.0\ref\CondicionalIdade.dll
